@@ -7,24 +7,24 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Alexandre Marthe"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Alexandre Marthe"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://amarthe.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "amarthe/amarthe.github.io"
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Alexandre Marthe"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Phd student working on Reinforcement Learning"
   pronouns         : # example: "she/her"
-  location         : "Location"
-  orcid            : "http://orcid.org/yourorcidurl"
-  employer         :
-  email            :  
+  location         : "Lyon, France"
+  orcid            : #"http://orcid.org/yourorcidurl"
+  employer         : ENS de Lyon
+  email            : fistname[dot]lastname<at>ens-lyon(dot)fr
   uri              :
 
   # Manuscript repositories
@@ -41,7 +41,7 @@ author:
   facebook         :
   flickr           :
   foursquare       :
-  github           : "academicpages"
+  github           : "amarthe"
   goodreads        :
   google_plus      :
   keybase          :
@@ -49,7 +49,7 @@ author:
   lastfm           :
   linkedin         :
   kaggle           : # "kaggleusername"
-  mastodon         : "mastodonhandle"
+  mastodon         : #"mastodonhandle"
   medium           : # "add medium profile url here"
   pinterest        :
   soundcloud       :
