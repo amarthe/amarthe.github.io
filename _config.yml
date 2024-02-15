@@ -18,8 +18,8 @@ repository               : "amarthe/amarthe.github.io"
 # Site Author
 author:
   name             : "Alexandre Marthe"
-  avatar           : "profile.png"
-  bio              : "Phd student working on Reinforcement Learning"
+  avatar           : "neurips_zoom.jpg"
+  bio              : "Phd student at ENS de Lyon, working on Reinforcement Learning"
   pronouns         : # example: "she/her"
   location         : "Lyon, France"
   orcid            : #"http://orcid.org/yourorcidurl"

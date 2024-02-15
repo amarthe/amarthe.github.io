@@ -9,25 +9,33 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+## Education
+* **September 2022 -** : Ph.D Student, ENS de Lyon
+* **2021-2022** : M.S MVA (Mathematics, Vision, Learning), ENS de Paris-Saclay
+* **2020-2021** : Training for Agrégation de Mathématiques, ENS de Lyon
+* **2019-2020** : M.S. Fundamental Computer Science, ENS de Lyon
+* **2018-2019** : 
+  * B.S. Fundamental Computer Science, ENS de Lyon
+  * B.S. Mathematics, Université Lyon 1
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Research experience
+
+* **Currently**: Ph.D
+
+* **Summer 2022**: Research intership
+  * *Topic*: Distributional Reinforcement Learning and Quantile Optimization
+  * *Supervision*: Aurélien Garivien, UMPA at ENS de Lyon, Lyon
+
+* **Summer 2020**: Research internship
+  * *Topic*: Sparse matrix factorization and dictionnary learning for electronic tomography
+  * *Supervision*: Guillaume Obozinsky, Swiss Data Science Center, Switzerland
+
+* **Summer 2019**: Research intership
+  * *Topic*: Formal modelling and analysis of the Insulin Signaling Pathway
+  * *Supervision*: Cédric Lhoussaine, BioComputing team at CRIStAL, Lille
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
@@ -56,4 +64,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->

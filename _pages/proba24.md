@@ -5,14 +5,14 @@ permalink: /teaching/proba24
 author_profile: true
 ---
 
-Chargés de TD : Anne Gagneux et Alexandre Marthe
-
+Professeur : Guillaume Aubrun  
+Chargés de TD : Anne Gagneux et Alexandre Marthe  
+Page du cours : [http://math.univ-lyon1.fr/~aubrun/enseignement/IFL3-probas/index.html](http://math.univ-lyon1.fr/~aubrun/enseignement/IFL3-probas/index.html)
 
 ### TD 1 : Évènements
 
 - [sujet](/files/TD1.pdf)
 - [corrigé]()
-
 
 ### TD 2 : Variables Aléatoires
 
