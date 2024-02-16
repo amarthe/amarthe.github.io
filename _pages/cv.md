@@ -29,7 +29,8 @@ redirect_from:
 
 * **Summer 2020**: Research internship
   * *Topic*: Sparse matrix factorization and dictionnary learning for electronic tomography
-  * *Supervision*: Guillaume Obozinsky, Swiss Data Science Center, Switzerland
+  * *Supervision*: Guillaume Oboz
+  * inski, Swiss Data Science Center, Switzerland
 
 * **Summer 2019**: Research intership
   * *Topic*: Formal modelling and analysis of the Insulin Signaling Pathway
