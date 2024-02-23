@@ -19,3 +19,7 @@ Page du cours : [http://math.univ-lyon1.fr/~aubrun/enseignement/IFL3-probas/in
 - [sujet](/files/TD2.pdf)
 - [corrigé](/files/TD2_correction.pdf)
 
+### TD 3 : Variables Aléatoires (suite)
+
+- [sujet](/files/TD3.pdf)
+- 
