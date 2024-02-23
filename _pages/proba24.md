@@ -22,4 +22,4 @@ Page du cours : [http://math.univ-lyon1.fr/~aubrun/enseignement/IFL3-probas/in
 ### TD 3 : Variables Aléatoires (suite)
 
 - [sujet](/files/TD3.pdf)
-- 
+- [corrigé]
