@@ -9,6 +9,8 @@ Professeur : Guillaume Aubrun
 Chargés de TD : Anne Gagneux et Alexandre Marthe  
 Page du cours : [http://math.univ-lyon1.fr/~aubrun/enseignement/IFL3-probas/index.html](http://math.univ-lyon1.fr/~aubrun/enseignement/IFL3-probas/index.html)
 
+DM à rendre pour les TD du 28 ou 29 Mars : [sujet](/files/DM-2024)
+
 ### TD 1 : Évènements
 
 - [sujet](/files/TD1.pdf)
@@ -27,4 +29,10 @@ Page du cours : [http://math.univ-lyon1.fr/~aubrun/enseignement/IFL3-probas/in
 ### TD 4 : Moments et Inégalités de concentration
 
 - [sujet](/files/TD4.pdf)
+- [corrigé](/files/TD4_correction.pdf)
+
+### TD 5 : Inégalité de Chernoff: applications
+
+- [sujet](/files/TD5.pdf)
+- [corrigé](SOON)
 
