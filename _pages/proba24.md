@@ -39,4 +39,8 @@ DM à rendre pour les TD du 28 ou 29 Mars : [sujet](/files/DM-2024.pdf)
 ### TD 6 : Inégalité de Chernoff (Suite)
 
 - [sujet](/files/TD6.pdf)
-- [corrigé]()
+- [corrigé](/files/TD6_correction.pdf)
+
+### TD 7 : Graphes aléatoires
+
+- [sujet](/files/TD6.pdf)
