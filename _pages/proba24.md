@@ -44,3 +44,9 @@ DM à rendre pour les TD du 28 ou 29 Mars : [sujet](/files/DM-2024.pdf)
 ### TD 7 : Graphes aléatoires
 
 - [sujet](/files/TD7.pdf)
+- [corrigé](/files/TD7_correction.pdf)
+
+### TD 8 : Convergence de variables aléatoires
+
+- [sujet](/files/TD8.pdf)
+- [corrigé]()
