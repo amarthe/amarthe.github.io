@@ -49,4 +49,4 @@ DM à rendre pour les TD du 28 ou 29 Mars : [sujet](/files/DM-2024.pdf)
 ### TD 8 : Convergence de variables aléatoires
 
 - [sujet](/files/TD8.pdf)
-- [corrigé]()
+- [corrigé](/files/TD8_correction.pdf)
