@@ -50,3 +50,8 @@ DM à rendre pour les TD du 28 ou 29 Mars : [sujet](/files/DM-2024.pdf)
 
 - [sujet](/files/TD8.pdf)
 - [corrigé]()
+
+### TD 9 : Méthode probabiliste
+
+- [sujet](/files/TD9.pdf)
+- [corrigé]()
