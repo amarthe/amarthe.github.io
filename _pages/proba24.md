@@ -56,18 +56,22 @@ DM à rendre pour les TD du 28 ou 29 Mars : [sujet](/files/DM-2024.pdf) [correct
 - [sujet](/files/TD9.pdf)
 - [corrigé](/files/TD9_correction.pdf)
 
-
 ### TD 10 : Chaînes de Markov
 
 - [sujet](/files/TD10.pdf)
 - [corrigé](/files/TD10_correction.pdf)
 
-### TD11 : Chaînes de Markov (récurrence/transience)
+### TD 11 : Chaînes de Markov (récurrence/transience)
 
 - [sujet](/files/TD11.pdf)
 - [correction](/files/TD11_correction.pdf)
 
 ### TD 12 : Chaînes de Markov (distributions invariantes)
 
-- [sujet]()
-- [correction]()
+- [sujet](/files/TD12.pdf)
+- [correction](/files/TD12_correction.pdf)
+
+### TD 13 : Chaînes de Markov (marches aléatoires)
+
+- [sujet](/files/TD13.pdf)
+- [sujet](/files/TD13_correction.pdf)
