@@ -21,17 +21,19 @@ redirect_from:
 
 ## Research experience
 
-* **Currently**: Ph.D
+* **Septembre 2022 - Currently**: Ph.D
+  * *Topic*: Distributional and Risk-Sensitive Reinforcement Learning
+  * *Supervision*: Aurélien Garivier, Claire Vernade
 
-* **Summer 2022**: Research intership
+* **Summer 2022**: Research internship
   * *Topic*: Distributional Reinforcement Learning and Quantile Optimization
-  * *Supervision*: Aurélien Garivien, UMPA at ENS de Lyon, Lyon
+  * *Supervision*: Aurélien Garivier, UMPA at ENS de Lyon, Lyon
 
 * **Summer 2020**: Research internship
   * *Topic*: Sparse matrix factorization and dictionnary learning for electronic tomography
   * *Supervision*: Guillaume Obozinski, Swiss Data Science Center, Switzerland
 
-* **Summer 2019**: Research intership
+* **Summer 2019**: Research internship
   * *Topic*: Formal modelling and analysis of the Insulin Signaling Pathway
   * *Supervision*: Cédric Lhoussaine, BioComputing team at CRIStAL, Lille
   
