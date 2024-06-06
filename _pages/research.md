@@ -23,7 +23,7 @@ Alexandre Marthe, Aurélien Garivier, Claire Vernade. *NeurIPS 2023*
 - **Beyond Average Return in Markov Decision Processes**
   - NeurIPS@Paris 2023
   - NeurIPS 2023 Virtual Conference
-- **Distributionnal Reinforcement Learning**
+- **Distributional Reinforcement Learning**
   - Tuebingen University's PhDs' RL Reading Group
 
 ## Reviews done
