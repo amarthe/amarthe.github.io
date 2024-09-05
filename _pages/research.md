@@ -33,5 +33,5 @@ Alexandre Marthe, Aurélien Garivier, Claire Vernade. *NeurIPS 2023*
 
 ## Volunteering
 
-- Volunteer at EUSIPCO 2024, in Lyon,
+- Volunteer at EUSIPCO 2024, in Lyon, France
 
