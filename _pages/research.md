@@ -31,7 +31,7 @@ Alexandre Marthe, Aurélien Garivier, Claire Vernade. *NeurIPS 2023*
 
 - FoRLaC Workshop, *ICML 2024*
 
-## Volonteering
+## Volunteering
 
-- Volonteer at EUSIPCO 2024, in Lyon,
+- Volunteer at EUSIPCO 2024, in Lyon,
 
