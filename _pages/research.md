@@ -18,6 +18,7 @@ Alexandre Marthe, Aurélien Garivier, Claire Vernade. *NeurIPS 2023*
   - NeurIPS@Paris 2023
   - NeurIPS 2023
   - PEPR IA Launch (FOUNDRY Project)
+  - AILyS scientific day
 
 ## Talks
 - **Beyond Average Return in Markov Decision Processes**
@@ -29,4 +30,8 @@ Alexandre Marthe, Aurélien Garivier, Claire Vernade. *NeurIPS 2023*
 ## Reviews done
 
 - FoRLaC Workshop, *ICML 2024*
+
+## Volonteering
+
+- Volonteer at EUSIPCO 2024, in Lyon,
 
