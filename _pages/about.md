@@ -17,7 +17,7 @@ I am a PhD student at UMPA, ENS de Lyon, in France, under the supervision of [Au
 Alexandre Marthe, Aurélien Garivier, Claire Vernade. *NeurIPS 2023*
 
 - **Efficient Risk-Sensitive Planning**  
-Alexandre Marthe, Samuel Bounan, Aurélien Garivier, Claire Vernade. *NeurIPS 2023*
+Alexandre Marthe, Samuel Bounan, Aurélien Garivier, Claire Vernade. *EWRL 2025*, *submitted*
 
 
 
