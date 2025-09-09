@@ -7,21 +7,30 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at UMPA, ENS de Lyon, in France, under the supervision of [Aurelien Garivier](https://perso.ens-lyon.fr/aurelien.garivier/www.math.univ-toulouse.fr/_agarivie/index.html) and [Claire Vernade](https://www.cvernade.com/).
+I am a *PhD student* at UMPA, ENS de Lyon, in France, under the supervision of [Aurelien Garivier](https://perso.ens-lyon.fr/aurelien.garivier/www.math.univ-toulouse.fr/_agarivie/index.html) and [Claire Vernade](https://www.cvernade.com/). I work on Risk-Sensitive Planning and Reinforcement Learning. 
+
+My most recent works focus on understanding the link between the *Distributional Framework* in MDPs (see Distributional Reinforcement Learning, Bellemare et al. 2023), and *Dynamic Programming* with *Risk Measures*. You can find a wonderful talk of Claire Vernade presenting our latest paper [here](https://youtu.be/BN2XE_lR4Eg?si=mPmcCddmow2WHX_t).
+
+You can currently find me sampling bandit rewards and MDP trajectories by hand trying to understand the *learning* process of the same risk measures.
+
+I am also in the process of writing my PhD thesis, and I am planning to defend it around the end of 2025. I am still **looking for job opportunities** after my PhD, so feel free to contact me if you have offers.
 
 
-
-
-### Selected Publication :
+### Selected Publications :
 - **Beyond Average Return in Markov Decision Processes**  
-Alexandre Marthe, Aurélien Garivier, Claire Vernade. *NeurIPS 2023*
+Alexandre Marthe, Aurélien Garivier, Claire Vernade. *NeurIPS 2023* [\[Link\]](https://hal.science/hal-04264487)
 
-- **Efficient Risk-Sensitive Planning**  
-Alexandre Marthe, Samuel Bounan, Aurélien Garivier, Claire Vernade. *EWRL 2025*, *submitted*
+- **Efficient Risk-Sensitive Planning via Entropic Risk Measures**  
+Alexandre Marthe, Samuel Bounan, Aurélien Garivier, Claire Vernade. *EWRL 2025*, *(under review for publication)* [\[Link\]](https://hal.science/hal-04967311)
+  
 
+### Extracurricular
 
+In my spare time, I like sports. I am involved in a competitive Cheerleading club ([*Reign*](https://www.instagram.com/reign_cheerleaders?utm_source=ig_web_button_share_sheet&igsh=emw5Zm5qem84Ynl0), from Villeurbanne). With my team, I won the bronze medal at the 2025 French National Cheerleading Championship (see [here](https://youtu.be/SRlqyTTjO64?si=Om8yw7UFa30KQSZI&t=78) a video of our performance), along with several other medals in regional to international competitions. 
 
+I am also into games, mainly card games. I am deeply involved in the Competitive scene of the Trading Card Game *Yu-Gi-Oh!*. As part of the Judge Program, I supervised a dozen of competition at the highest level of international competitive play, with several thousand players from all around the world. I even recently was selected to Judge at the very selective 2025 World Championship in Paris.
 
+Wanna talk about any of the subjects mentioned above? I’ll be more than pleased to discuss it with you.
 
 ### Contact
 

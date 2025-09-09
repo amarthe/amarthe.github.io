@@ -17,7 +17,7 @@ France’s most prestigious Master's in AI, taught by world-renowned researchers
 * **2020-2021** : Training for Agrégation de Mathématiques, ENS de Lyon  
 Highest French degree for teaching (Mathematics).
 * **2019-2020** : M.S. Fundamental Computer Science, ENS de Lyon  
-  - *Class taken:* Parallel Programming, Optimization, Competitive Programming,  Proof and Programs, Semantics and Verification, Introduction to Machine Learning.
+  - *Class taken:* Parallel Programming, Optimization, Performance Evaluation,  Proof and Programs, Semantics and Verification, Introduction to Machine Learning, Cryptography and Security.
 * **2018-2019** : 
   * B.S. Fundamental Computer Science, ENS de Lyon
   * B.S. Mathematics, Université Lyon 1
