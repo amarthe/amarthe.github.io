@@ -36,7 +36,6 @@ Highest French degree for teaching (Mathematics).
 * **Summer 2020**: Research internship
   * *Topic*: Sparse matrix factorization and dictionnary learning for electronic tomography
   * *Supervision*: Guillaume Obozinski, Swiss Data Science Center, Switzerland (Remote)
-  * 
 
 * **Summer 2019**: Research internship
   * *Topic*: Formal modelling and analysis of the Insulin Signaling Pathway

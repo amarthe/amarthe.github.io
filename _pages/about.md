@@ -9,7 +9,7 @@ redirect_from:
 
 I am a *PhD student* at UMPA, ENS de Lyon, in France, under the supervision of [Aurelien Garivier](https://perso.ens-lyon.fr/aurelien.garivier/www.math.univ-toulouse.fr/_agarivie/index.html) and [Claire Vernade](https://www.cvernade.com/). I work on Risk-Sensitive Planning and Reinforcement Learning. 
 
-My most recent works focus on understanding the link between the *Distributional Framework* in MDPs (see Distributional Reinforcement Learning, Bellemare et al. 2023), and *Dynamic Programming* with *Risk Measures*. You can find a wonderful talk of Claire Vernade presenting our latest paper [here](https://youtu.be/BN2XE_lR4Eg?si=mPmcCddmow2WHX_t).
+My most recent works focus on understanding the link between the *Distributional Framework* in MDPs (see Distributional Reinforcement Learning, Bellemare et al. 2023), and *Dynamic Programming* with *Risk Measures*. You can find a wonderful talk from Claire Vernade presenting ideas from our latest paper [here](https://youtu.be/BN2XE_lR4Eg?si=mPmcCddmow2WHX_t).
 
 You can currently find me sampling bandit rewards and MDP trajectories by hand trying to understand the *learning* process of the same risk measures.
 
