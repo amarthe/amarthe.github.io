@@ -9,11 +9,11 @@ redirect_from:
 
 I am a *PhD student* at UMPA, ENS de Lyon, in France, under the supervision of [Aurelien Garivier](https://perso.ens-lyon.fr/aurelien.garivier/www.math.univ-toulouse.fr/_agarivie/index.html) and [Claire Vernade](https://www.cvernade.com/). I work on Risk-Sensitive Planning and Reinforcement Learning. 
 
-My most recent works focus on understanding the link between the *Distributional Framework* in MDPs (see Distributional Reinforcement Learning, Bellemare et al. 2023), and *Dynamic Programming* with *Risk Measures*. You can find a wonderful talk from Claire Vernade presenting ideas from our latest paper [here](https://youtu.be/BN2XE_lR4Eg?si=mPmcCddmow2WHX_t).
+My most recent works focus on understanding the link between the *Distributional Framework* in MDPs (see Distributional Reinforcement Learning, Bellemare et al. 2023), and *Dynamic Programming* with *Risk Measures*. [Here](https://youtu.be/BN2XE_lR4Eg?si=mPmcCddmow2WHX_t) is a wonderful talk from Claire Vernade presenting ideas from our latest paper.
 
-You can currently find me sampling bandit rewards and MDP trajectories by hand trying to understand the *learning* process of the same risk measures.
+You can currently find me sampling bandit rewards and MDP trajectories by hand trying to understand how to *learn* risk measures.
 
-I am also in the process of writing my PhD thesis, and I am planning to defend it around the end of 2025. I am still **looking for job opportunities** after my PhD, so feel free to contact me if you have offers.
+I am also in the process of writing my PhD thesis, *planning* to defend it around the end of 2025. I am still **looking for job opportunities** after my PhD, so feel free to contact me if you have offers.
 
 
 ### Selected Publications :
@@ -35,7 +35,7 @@ Wanna talk about any of the subjects mentioned above? I’ll be more than please
 ### Contact
 
 Email : firstname.lastname@ens-lyon.fr
-<!-- I work in the field of Reinforcement Learning (RL). I am interested in different subtopics of RL, such as Distributional RL, Risk-sensitive RL, and Inverse RL. My research focuses on trying to establish links between these different aspects of RL. -->
+
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
