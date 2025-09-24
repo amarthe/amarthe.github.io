@@ -19,12 +19,12 @@ Alexandre Marthe, Samuel Bounan, Aurélien Garivier, Claire Vernade. *EWRL 2025*
 - **Beyond Average Return in Markov Decision Processes**
   - EWRL 2023 [(v1, landscape)](/files/research/beyond_average/v1.pdf)
   - NeurIPS@Paris 2023 [(v2, landscape)](/files/research/beyond_average/v2.pdf)
-  - NeurIPS 2023 (v2)
+  - NeurIPS 2023
   - PEPR IA Launch (FOUNDRY Project) [(v2, portrait)](/files/research/beyond_average/v2_portrait.pdf)
-  - AILyS scientific day (v2)
+  - AILyS scientific day
 
 - **Efficient Risk-Sensitive Planning via Entropic Risk Measures**
-  - EWRL 2025 (To be added)
+  - EWRL 2025 [link](/files/research/optimality_front/poster.pdf)
 
 ## Talks
 - **Beyond Average Return in Markov Decision Processes**
