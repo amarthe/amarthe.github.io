@@ -13,7 +13,7 @@ My most recent works focus on understanding the link between the *Distributional
 
 You can currently find me sampling bandit rewards and MDP trajectories by hand trying to understand how to *learn* risk measures.
 
-I am also in the process of writing my PhD thesis, *planning* to defend it around the end of 2025. I am still **looking for job opportunities** after my PhD, so feel free to contact me if you have offers.
+I am defending my PhD Thesis on March 11th, 2026. I am still **looking for job opportunities** after my PhD, so feel free to contact me if you have offers.
 
 
 ### Selected Publications :
