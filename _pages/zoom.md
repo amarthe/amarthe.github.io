@@ -1,0 +1,1 @@
+Lien zoom pour la visio : [https://cnrs.zoom.us/j/92853999524?pwd=K2lbpLXiHln2I4mbUp47kaQn2B8jR9.1](https://cnrs.zoom.us/j/92853999524?pwd=K2lbpLXiHln2I4mbUp47kaQn2B8jR9.1)
