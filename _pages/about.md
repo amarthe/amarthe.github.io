@@ -22,8 +22,7 @@ Alexandre Marthe, Samuel Bounan, Aurélien Garivier, Claire Vernade. *EWRL 2025*
 
 ### PhD Thesis :
 - **Risk-Sensitive Planning in Markov Decision Processes:  Distributional Perspective and Entropic Front**
-Defended before a thesis committee composed by *Aurélien Garivier* (supervisor), *Claire Vernade* (co-supervisor), *Vianney Perchet* (reviewer), *Marc G. Bellemare* (reviewer) and *Rémi Munos* (examiner).
-  
+Defended before a thesis committee composed by *Aurélien Garivier* (supervisor), *Claire Vernade* (co-supervisor), *Vianney Perchet* (reviewer), *Marc G. Bellemare* (reviewer) and *Rémi Munos* (examiner) [\[link\]](https://hal.science/tel-05552935).
 
 ### Extracurricular
 
