@@ -19,11 +19,11 @@ repository               : "amarthe/amarthe.github.io"
 author:
   name             : "Alexandre Marthe"
   avatar           : "neurips_zoom.jpg"
-  bio              : "Phd student at ENS de Lyon, working on Reinforcement Learning and Control Theory."
+  bio              : "Interested in Reinforcement Learning, world models and continual learning. Phd recently defended."
   pronouns         : # example: "she/her"
   location         : "Lyon, France"
   orcid            : #"http://orcid.org/yourorcidurl"
-  employer         : #ENS de Lyon
+  employer         : Looking for opportunities
   email            : 
   uri              :
 

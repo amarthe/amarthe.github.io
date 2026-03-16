@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 ## PhD Thesis :
-- **Risk-Sensitive Planning in Markov Decision Processes: Distributional Perspective and Entropic Front**
-Defended before a thesis committee composed by Aurélien Garivier (supervisor), Claire Vernade (co-supervisor), Vianney Perchet (reviewer), Marc G. Bellemare (reviewer) and Rémi Munos (examiner).
+- **Risk-Sensitive Planning in Markov Decision Processes: Distributional Perspective and Entropic Front**  
+Defended before a thesis committee composed by Aurélien Garivier (supervisor), Claire Vernade (co-supervisor), Vianney Perchet (reviewer), Marc G. Bellemare (reviewer) and Rémi Munos (examiner).  
 [Phd Thesis](https://amarthe.github.io/files/manuscrit.pdf), [Oral Defense](https://docs.google.com/presentation/d/10hHb4mXLhIspEaOunEODklXsxBVJC1yf44CtqBJT5_4/edit?usp=sharing)
   
 ## Publications
