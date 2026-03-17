@@ -21,13 +21,12 @@ Alexandre Marthe, Aurélien Garivier, Claire Vernade. *NeurIPS 2023* [\[Link\]](
 Alexandre Marthe, Samuel Bounan, Aurélien Garivier, Claire Vernade. *EWRL 2025*, *(under review for publication)* [\[Link\]](https://hal.science/hal-04967311)
 
 ### PhD Thesis :
-- **Risk-Sensitive Planning in Markov Decision Processes:**  
-**Distributional Perspective and Entropic Front**  
+- **Risk-Sensitive Planning in Markov Decision Processes: Distributional Perspective and Entropic Front**  
 Defended before a thesis committee composed by *Aurélien Garivier* (supervisor), *Claire Vernade* (co-supervisor), *Vianney Perchet* (reviewer), *Marc G. Bellemare* (reviewer) and *Rémi Munos* (examiner) [\[link\]](https://hal.science/tel-05552935).
 
 ### Extracurricular
 
-In my spare time, I like sports. I am involved in a competitive Cheerleading club ([*Reign*](https://www.instagram.com/reign_cheerleaders?utm_source=ig_web_button_share_sheet&igsh=emw5Zm5qem84Ynl0), from Villeurbanne). With my team, I won the bronze medal at the 2025 French National Cheerleading Championship and we recently qualified for the European Championship of this year. See [here](https://youtu.be/NReKZdkM55g?si=Xf1MCoyZpheA3aGq) our latest performance.  
+In my spare time, I like sports. I am involved in a competitive Cheerleading club ([*Reign*](https://www.instagram.com/reign_cheerleaders?utm_source=ig_web_button_share_sheet&igsh=emw5Zm5qem84Ynl0), from Villeurbanne). With my team, I won the bronze medal at the 2025 French National Cheerleading Championship and we recently qualified for the 2026 European Championship. See [here](https://youtu.be/NReKZdkM55g?si=Xf1MCoyZpheA3aGq) our latest performance.  
 
 I am also into games, mainly card games. I was deeply involved in the Competitive scene of the Trading Card Game *Yu-Gi-Oh!*. As part of the Judge Program, I supervised a dozen of competition at the highest level of international competitive play, with several thousand players from all around the world. I was even selected to Judge at the very selective 2025 World Championship in Paris.
 
