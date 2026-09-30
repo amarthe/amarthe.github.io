@@ -13,11 +13,11 @@ redirect_from:
 * **September 2022 - March 2026** : Ph.D Student, ENS de Lyon
 * **2021-2022** : M.S. [MVA](https://www.master-mva.com/) (Mathematics, Vision, Learning), ENS de Paris-Saclay  
 France’s most prestigious Master's in AI, taught by world-renowned researchers.  
-  - *Class taken:* Computational Statistics, Reinforcement Learning, Introduction to Statisitical Learning, Convex Optimization, Temporal Series Learning, Probabilistic Graphical Models, Deep Reinforcement Learning, Algorithms for Speech and NLP.
+  - *Classes taken:* Computational Statistics, Reinforcement Learning, Introduction to Statistical Learning, Convex Optimization, Temporal Series Learning, Probabilistic Graphical Models, Deep Reinforcement Learning, Algorithms for Speech and NLP.
 * **2020-2021** : Training for Agrégation de Mathématiques, ENS de Lyon  
 Highest French degree for teaching (Mathematics).
 * **2019-2020** : M.S. Fundamental Computer Science, ENS de Lyon  
-  - *Class taken:* Parallel Programming, Optimization, Performance Evaluation,  Proof and Programs, Semantics and Verification, Introduction to Machine Learning, Cryptography and Security.
+  - *Classes taken:* Parallel Programming, Optimization, Performance Evaluation,  Proof and Programs, Semantics and Verification, Introduction to Machine Learning, Cryptography and Security.
 * **2018-2019** : 
   * B.S. Fundamental Computer Science, ENS de Lyon
   * B.S. Mathematics, Université Lyon 1
@@ -27,7 +27,7 @@ Highest French degree for teaching (Mathematics).
 * **Septembre 2022 - March 2026**: Ph.D
   * *Topic*: Risk-Sensitive Planning in Markov Decision Processes
   * *Supervision*: Aurélien Garivier, Claire Vernade
-  * *Thesis Committee*: Vianney Perchet (reviewer), Marc. G. Bellemare (reviewer), Rémi Munos (examiner) 
+  * *Thesis Committee*: Vianney Perchet (reviewer), Marc. G. Bellemare (reviewer), Rémi Munos (Jury President) 
   * [Phd Thesis](https://amarthe.github.io/files/manuscrit.pdf), [Oral Defense](https://docs.google.com/presentation/d/10hHb4mXLhIspEaOunEODklXsxBVJC1yf44CtqBJT5_4/edit?usp=sharing)
 
 * **Summer 2022**: Research internship
