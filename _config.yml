@@ -18,8 +18,8 @@ repository               : "amarthe/amarthe.github.io"
 # Site Author
 author:
   name             : "Alexandre Marthe"
-  avatar           : "neurips_zoom.jpg"
-  bio              : "Interested in Reinforcement Learning, world models and continual learning. Phd recently defended."
+  avatar           : "profile_3.jpg"
+  bio              : "Recently defended my PhD on Risk-Sensitive RL. Interested in LLM post-training and RL."
   pronouns         : # example: "she/her"
   location         : "Lyon, France"
   orcid            : #"http://orcid.org/yourorcidurl"

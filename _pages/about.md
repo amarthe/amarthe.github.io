@@ -7,22 +7,36 @@ redirect_from:
   - /about.html
 ---
 
-I recently defended my **PhD** which I did under the supervision of [Aurelien Garivier](https://perso.ens-lyon.fr/aurelien.garivier/www.math.univ-toulouse.fr/_agarivie/index.html) and [Claire Vernade](https://www.cvernade.com/) at ENS de Lyon, in France.
+I recently defended my **PhD** which I did under the supervision of [Aurelien Garivier](https://perso.ens-lyon.fr/aurelien.garivier/www.math.univ-toulouse.fr/_agarivie/index.html) and [Claire Vernade](https://www.cvernade.com/) at ENS de Lyon, in France. You can find here my [Phd Thesis](https://amarthe.github.io/files/manuscrit.pdf) and the slides for my [Oral Defense](https://docs.google.com/presentation/d/10hHb4mXLhIspEaOunEODklXsxBVJC1yf44CtqBJT5_4/edit?usp=sharing).
+  
 
-My **most recent works** focus on understanding the link between the *Distributional Perspective* in MDPs (see Distributional Reinforcement Learning, Bellemare et al. 2023), and *Dynamic Programming* with *Risk Measures*. [Here](https://youtu.be/BN2XE_lR4Eg?si=mPmcCddmow2WHX_t) is a wonderful talk from Claire Vernade presenting ideas from our latest paper.
+My **research** focused on understanding the link between the *Distributional Perspective* in MDPs (see Distributional Reinforcement Learning, Bellemare et al. 2023), and *Dynamic Programming* with *Risk Measures*. [Here](https://youtu.be/BN2XE_lR4Eg?si=mPmcCddmow2WHX_t) is a wonderful talk from Claire Vernade presenting one of our papers.
 
-I am currently **looking for opportunities** in the industry, feel free to contact me if you have offers.
+I am currently **looking for opportunities** in the industry, feel free to contact me if you have offers. My CV can be found [Here](https://amarthe.github.io/files/cv/cv.pdf)
 
 ### Selected Publications :
 - **Beyond Average Return in Markov Decision Processes**  
 Alexandre Marthe, Aurélien Garivier, Claire Vernade. *NeurIPS 2023* [\[Link\]](https://hal.science/hal-04264487)
 
-- **Efficient Risk-Sensitive Planning via Entropic Risk Measures**  
+- **Risk-Sensitive Planning via Entropic Risk Measures**  
 Alexandre Marthe, Samuel Bounan, Aurélien Garivier, Claire Vernade. *EWRL 2025*, *(under review for publication)* [\[Link\]](https://hal.science/hal-04967311)
 
 ### PhD Thesis :
 - **Risk-Sensitive Planning in Markov Decision Processes: Distributional Perspective and Entropic Front**  
 Defended before a thesis committee composed by *Aurélien Garivier* (supervisor), *Claire Vernade* (co-supervisor), *Vianney Perchet* (reviewer), *Marc G. Bellemare* (reviewer) and *Rémi Munos* (examiner) [\[link\]](https://hal.science/tel-05552935).
+
+### Personal Project: Implementing LLMs from Scratch
+I am currently exploring the development of small-scale LLMs by implementing the entire process from scratch:
+- Training a small Language Model (~17M parameters) on the TinyStories dataset:
+  - Implemented a BPE tokenizer, all Transformer modules, AdamW, and the full training pipeline from scratch in PyTorch.
+  - Conducted ablation studies on several components to better understand their importance.
+- Post-training OLMo-2-0425-1B with RLVR on the GSM8K dataset:
+  - Implemented the pipeline and several RL algorithm variants: GRPO (both online and offline), Dr. GRPO, RFT, MaxRL, and GSPO.
+- Currently implementing an RLHF pipeline.
+- Coming soon: implementing distillation pipelines and writing GPU kernels.
+  
+Resources used: [Stanford's CS336 lectures and handouts](https://cs336.stanford.edu/), [Andrej Karpathy's Youtube videos](https://www.youtube.com/@AndrejKarpathy), [Sebastian Raschka's Youtube Playlist
+](https://www.youtube.com/@SebastianRaschka)
 
 ### Extracurricular
 
