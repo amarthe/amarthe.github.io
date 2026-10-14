@@ -12,7 +12,7 @@ I recently defended my **PhD** which I did under the supervision of [Aurelien 
 
 My **research** focused on understanding the link between the *Distributional Perspective* in MDPs (see Distributional Reinforcement Learning, Bellemare et al. 2023), and *Dynamic Programming* with *Risk Measures*. [Here](https://youtu.be/BN2XE_lR4Eg?si=mPmcCddmow2WHX_t) is a wonderful talk from Claire Vernade presenting one of our papers.
 
-I am currently **looking for opportunities** in the industry, feel free to contact me if you have offers. My CV can be found [Here](https://amarthe.github.io/files/cv/cv_marthe_alexandre.pdf).
+I am currently **looking for opportunities** in the industry, feel free to contact me if you have offers. My **CV** can be found [Here](https://amarthe.github.io/files/cv/cv_marthe_alexandre.pdf).
 
 ### Selected Publications :
 - **Beyond Average Return in Markov Decision Processes**  
