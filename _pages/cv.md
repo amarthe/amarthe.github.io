@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+A comprehensive PDF version of my CV can be found [Here](https://amarthe.github.io/files/cv/cv_marthe_alexandre.pdf).
+
 ## Education
 * **September 2022 - March 2026** : Ph.D Student, ENS de Lyon
 * **2021-2022** : M.S. [MVA](https://www.master-mva.com/) (Mathematics, Vision, Learning), ENS de Paris-Saclay  
